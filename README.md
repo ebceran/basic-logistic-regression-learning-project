@@ -9,7 +9,7 @@ This repository marks the beginning of my journey into Machine Learning for Fina
 Although this is a small project, it represents something very important:
 
 - understanding the core statistical logic behind risk models
-- learning how ML algorithms actually behave—not just running code
+- learning how ML algorithms actually behave not just running code
 - building the foundational mindset required for real banking/fintech analytics
 
 Almost every financial institution uses Logistic Regression as the backbone of:
