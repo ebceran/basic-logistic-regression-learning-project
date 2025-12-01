@@ -133,22 +133,6 @@ ML Ops (Fintech)
 Data Scientist (Banking)
 
 
- *Next Steps
-
-This project is the first stepping stone.
-Over the coming months, I plan to build:
-
-real financial datasets
-
-fraud detection simulations
-
-risk scoring models
-
-time-series forecasting projects
-
-a complete Financial Data Scientist learning portfolio
-
-Each project will build on top of this foundation.
 
 Contact
 Emine Ceran – Financial Data Scientist in training, combining finance expertise with data-driven insights.
