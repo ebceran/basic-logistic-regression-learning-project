@@ -8,9 +8,9 @@ A hands-on mini project to understand the foundations of Logistic Regression, th
 This repository marks the beginning of my journey into Machine Learning for Finance.
 Although this is a small project, it represents something very important:
 
-✔ understanding the core statistical logic behind risk models
-✔ learning how ML algorithms actually behave—not just running code
-✔ building the foundational mindset required for real banking/fintech analytics
+- understanding the core statistical logic behind risk models
+- learning how ML algorithms actually behave—not just running code
+- building the foundational mindset required for real banking/fintech analytics
 
 Almost every financial institution uses Logistic Regression as the backbone of:
 
@@ -84,17 +84,17 @@ This is exactly how banks visualize model behaviour during validation.
 
 Banks and fintech companies rely heavily on logistic regression because:
 
-✔ It produces clear, interpretable probabilities
+- It produces clear, interpretable probabilities
 
-✔ It aligns with regulatory expectations (FCA, PRA, Basel III)
+- It aligns with regulatory expectations (FCA, PRA, Basel III)
 
-✔ It works well even with small datasets
+- It works well even with small datasets
 
-✔ It provides directionality (risk increases / decreases)
+- It provides directionality (risk increases / decreases)
 
-✔ It avoids black-box decisions
+- It avoids black-box decisions
 
-✔ Most scoring engines still use it today
+- Most scoring engines still use it today
 
 Even modern machine learning pipelines in fintech start with Logistic Regression as the baseline model.
 
